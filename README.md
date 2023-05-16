@@ -2,7 +2,7 @@
 ## Project: Snacks CRUD
 ## Author: Ethan Albers
 ## Links/Resources
-- [Github Repo](https://github.com/ekalbers/django-models)
+- [Github Repo](https://github.com/ekalbers/snacks-crud)
 
 ## setup
 - `python3 -m venv .venv`
